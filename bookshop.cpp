@@ -37,7 +37,7 @@ void Shop::GetShopDetails() {
 class Bookshop {
   public:
    int BookID;              // Total Number of Copies
-   char BookName[100];      // Name of book
+   char BookName[100];      // Name of  books
    char BookAuthor[100];    // Author of book
    void GetBookData();      // Get Data about book from user
    void DisplayAllBooks();  // Display data of all books
